@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(240, 240, 240);
+}
+
+.end1 h1{
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(230, 178, 161);
+    padding: 50px;
+    border-radius: 20px;
+    width: 65vw;
+    margin-left: 205px;
+}
+
+legend{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.p1{
+    text-transform: capitalize;
+    font-style: oblique;
+    font-size: 29px;
+}
+
+.p1 strong{
+    font-size: 40px;
+}
+
+.choose{
+    /* font-size: 40px; */
+    font-style: italic;
+}
+
+.end2 h1{
+    background-color: rgb(230, 178, 161);
+    border-radius: 20px;
+    text-align: center;
+    font-size: 70px;
+    padding: 50px;
+
+}
+
+.end3 p{
+    font-size: 25px;
+    text-align: center;
+}
+
+a:hover{
+    color: black;
+}

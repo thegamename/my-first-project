@@ -1,0 +1,452 @@
+body{
+    background-color: rgb(240, 240, 240)
+}
+
+.banner{
+    background-color: rgb(230, 178, 161);
+    border-radius: 10px;
+    width: 80vw;
+    margin-left: 120px;
+}
+
+.banner h1{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 80px;
+    color: rgb(192, 192, 41);
+    font-style: italic;
+}
+
+.banner h3{
+    text-align: center;
+    padding-bottom: 100px;
+    margin-top: -40px;
+    font-size: 30px;
+    font-style: oblique;
+    color: rgb(204, 174, 1);
+}
+
+.content{
+   /* margin-left: 450px; */
+   /* margin-top: 200px; */
+   display: flex;
+   /* justify-content: space-around; */
+   /* padding-right: 500px; */
+   background-color: rgb(206, 206, 206);
+   border-radius: 10px;
+   padding: 50px ;
+}
+
+.type1{
+    display: flex;
+    /* justify-content: space-between; */
+    /* margin-right: 250px; */
+}
+
+.type1 p{
+font-size: 30px;
+margin-top: 80px;
+margin-right: 5px;
+font-style: italic;
+font-weight: bold;
+margin-left: 100px;
+}
+
+
+.type1 img{
+    border-radius: 20px;
+    width: 320px;
+    height: 200px;
+    border: 2px solid black;
+    /* margin-left: 200px; */
+}
+
+.type2 p{
+    font-size: 30px;
+    margin-top: 80px;
+    margin-right: 5px;
+    font-style: italic;
+    font-weight: bold;
+    /* margin-left: 360px; */
+}
+
+.type2 img{
+    border-radius: 20px;
+    width: 350px;
+    height: 200px;
+    border: 2px solid black;
+    /* margin-left: 360px; */
+}
+
+.type2{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: 450px;
+}
+
+
+.content2{
+    display: flex;
+    background-color: rgb(206, 206, 206);
+   border-radius: 10px;
+   padding: 50px;
+   margin-top: 5px;
+}
+
+.type3{
+    display: flex;
+    margin-left: 70px;
+}
+
+.type3 p{
+    font-size: 30px;
+margin-top: 80px;
+margin-left: 5px;
+font-style: italic;
+font-weight: bold;
+}
+
+.type3 img{
+    border-radius: 20px;
+    width: 320px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.type4{
+    display: flex;
+    margin-left: 450px;
+}
+
+.type4 p{
+    font-size: 30px;
+margin-top: 80px;
+margin-left: 5px;
+font-style: italic;
+font-weight: bold;
+}
+
+.type4 img{
+    border-radius: 20px;
+    width: 320px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+
+.part1{
+    background-color: rgb(206, 206, 206);
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: -20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.part h4{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+    background-color: rgb(206, 206, 206);
+    /* margin-top: -20px; */
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.gold1 img{
+    display: flex;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.gold1 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid gold;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.gold2 img{
+    display: flex;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.gold2 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid gold;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.gold3 img{
+    display: flex;
+    border-radius: 10px;
+    width: 205px;
+    height: 199px;
+}
+
+.gold3 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid gold;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.gold4 img{
+    display: flex;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.gold4 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid gold;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.part2{
+    background-color: rgb(206, 206, 206);
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: -20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.emerald1 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #50c878;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.emerald1 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.emerald2 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #50c878;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.emerald2 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.emerald3 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #50c878;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.emerald3 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.emerald4 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #50c878;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.emerald4 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+
+.part3{
+    background-color: rgb(206, 206, 206);
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: -20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.diamond1 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #b9f2ff;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.diamond1 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.diamond2 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #b9f2ff;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.diamond2 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.diamond3 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #b9f2ff;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.diamond3 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.diamond4 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #b9f2ff;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.diamond4 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+
+.part4{
+    background-color: rgb(206, 206, 206);
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: -20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ruby1 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #9b1114;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ruby1 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.ruby2 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #9b111e;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ruby2 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.ruby3 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #9b111e;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ruby3 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.ruby4 p{
+    text-align: center;
+    font-style: italic;
+    border: 1px solid #9b111e;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ruby4 img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.person{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.end2 h1{
+    background-color: rgb(230, 178, 161);
+    border-radius: 20px;
+    text-align: center;
+    font-size: 70px;
+    padding: 50px;
+}
+
+a:hover{
+    color: black;
+}
+
+.footer{
+    font-size: 30px;
+    text-align: center;
+}
+
